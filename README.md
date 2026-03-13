@@ -96,12 +96,13 @@ ProjectForgeAI
 
 Developed by:
 
-**Aditya Senapati**  
+**Aditya Senapati R**  
 AI / ML Engineering Student
+AMC ENGINEERING COLLEGE
 
 **Aditya Sharma**
 AI / ML Engineering Student
-
+AMC ENGINEERING COLLEGE
 ---
 
 ## 📜 License
