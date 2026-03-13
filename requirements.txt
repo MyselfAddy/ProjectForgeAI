@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+arxiv
+requests
+scikit-learn
+groq
+numpy
+reportlab
