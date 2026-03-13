@@ -96,7 +96,7 @@ ProjectForgeAI
 
 Developed by:
 
-**Aditya Senapati**  
+**Aditya Senapati R**  
 AI / ML Engineering Student
 
 **Aditya Sharma**
